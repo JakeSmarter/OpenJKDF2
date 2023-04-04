@@ -40,6 +40,9 @@
     the Microsoft Visual C++ 2013 Redistributable Package
   * x86 and AMD64 architectures should update to
     [Microsoft Visual C++ 2013 Update 5 Redistributable Package](https://support.microsoft.com/help/3138367 "Visual C++ 2013 Update 5 Redistributable Package")
+* [ ] Add full UNICODE support
+  * OpenJKDF2 should use UNICODE internally and only *fall back* to ANSI when dealing with
+    game assets
 
 ## Android
 * [ ] Add texture compression support
