@@ -25,6 +25,8 @@
     compression algos and formats and we must not distribute
     pre&#x2011;compressed textures
   * Compressed textures should be cached for faster launches
+* [ ] Add proper message and error logging support
+  * [ ] Add colored &#x1F308; console messages
 * [ ] Add l11n support
   * [ ] Investigate the best way to build OS specific translation resources from
     one message source base. In other words, do not naively assume that gettext
