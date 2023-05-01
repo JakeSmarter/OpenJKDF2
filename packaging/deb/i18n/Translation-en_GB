@@ -1,0 +1,13 @@
+Package: openjkdf2-l10n-de
+Description-md5: 8b00f432c99a32802cf48feed12aab12
+Description-en_GB: German localisation to the cross-platform reimplementation of “Jedi Knight™: Dark Forces II”
+ “Jedi Knight™: Dark Forces II” is Copyright © Lucasfilm Ltd. 1997-2009.
+ An original “Jedi Knight™: Dark Forces II” game disk, or original licensed
+ assets from Steam or GOG, are required in order to play OpenJKDF2.
+
+Package: openjkdf2-l10n-pl
+Description-md5: 0734e6e6455a444627c8d088e05ddb68
+Description-en_GB: Polish localisation to the cross-platform reimplementation of “Jedi Knight™: Dark Forces II”
+ “Jedi Knight™: Dark Forces II” is Copyright © Lucasfilm Ltd. 1997-2009.
+ An original “Jedi Knight™: Dark Forces II” game disk, or original licensed
+ assets from Steam or GOG, are required in order to play OpenJKDF2.

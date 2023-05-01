@@ -1,0 +1,18 @@
+Package: openjkdf2-updates
+Package-Type: deb
+Version: 1.0.0
+Maintainer: Max Thomas <mtinc2@gmail.com>
+Section: games
+Priority: optional
+Architecture: all
+Multi-Arch: foreign
+Origin: OpenJKDF2
+Recommends: openjkdf2
+Bugs: https://github.com/shinyquagsire23/OpenJKDF2/issues
+Homepage: https://github.com/shinyquagsire23/OpenJKDF2
+Pre-Depends: dpkg (>= 1.15.7.2)
+Depends: apt (>= 1.6)
+Installed-Size: 24
+Description: An APT source creator for OpenJKDF2
+ This package adds an OpenJKDF2 source to APT. It enables automatic
+ updates of OpenJKDF2 on apt package managed Debian derived systems.

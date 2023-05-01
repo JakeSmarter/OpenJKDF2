@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="repository">
+  <id>org.openjkdf2.Updates</id>
+  <metadata_license>0BSD</metadata_license>
+  <project_license>0BSD</project_license>
+  <name>OpenJKDF2 Updates</name>
+  <name xml:lang="de">OpenJKDF2&#x2011;Aktualisierungen</name>
+  <name xml:lang="pl">Aktualizacje OpenJKDF2</name>
+  <summary>An APT source creator for OpenJKDF2</summary>
+  <summary xml:lang="de">Ein APT&#x2011;Quellenersteller für OpenJKDF2</summary>
+  <summary xml:lang="pl">Twórca źródła OpenJKDF2 dla APT</summary>
+  <description>
+    <p>
+       This package adds an OpenJKDF2 source to APT. It enables automatic
+       updates of OpenJKDF2 on apt package managed Debian derived systems.
+    </p>
+    <p xml:lang="de">
+      Dieses Paket fügt eine OpenJKDF2&#x2011;Quelle zu APT hinzu. Es ermöglicht
+      die automatische Aktualisierung von OpenJKDF2 auf Debian abgeleiteten
+      Systemen, die mit der Paketverwaltung &#x201e;apt&#x201c; verwaltet
+      werden.
+    </p>
+    <p xml:lang="pl">
+      Ten pakiet dodaje źródło OpenJKDF2 do APT. To umożliwia automatyczne
+      aktualizacje OpenJKDF2 na system pochodnych z Debian, których pakiety są
+      zarządzane przez apt.
+    </p>
+  </description>
+  <icon type="stock">package-x-generic</icon>
+  <developer_name>Max Thomas</developer_name>
+  <url type="homepage">https://github.com/shinyquagsire23/OpenJKDF2</url>
+  <url type="bugtracker">https://github.com/shinyquagsire23/OpenJKDF2/issues</url>
+  <url type="contact">https://github.com/shinyquagsire23/OpenJKDF2/issues</url>
+  <url type="vcs-browser">https://github.com/shinyquagsire23/OpenJKDF2</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.0.0" date="2023-05-01">
+      <description>
+        <p>
+          What&#x2019;s new in &#x201c;Jedi&#x00a0;Knight&#x2122;:&#x00a0;Dark&#x00a0;Forces&#x00a0;II&#x201d; Updates:
+        </p>
+        <p xml:lang="de">
+          Was gibts neues in &#x201e;Jedi&#x00a0;Knight&#x2122;:&#x00a0;Dark&#x00a0;Forces&#x00a0;II&#x201c;&#2011;Aktualisierungen:
+        </p>
+        <p xml:lang="pl">
+          Co nowego w aktualizacje &#x201e;Jedi&#x00a0;Knight&#x2122;:&#x00a0;Dark&#x00a0;Forces&#x00a0;II&#x201d;:
+        </p>
+        <ul>
+          <li>Debian repo release.</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+</component>

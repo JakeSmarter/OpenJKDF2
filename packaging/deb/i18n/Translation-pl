@@ -1,0 +1,39 @@
+Package: openjkdf2
+Description-md5: 7505323f825cb618d7aa0defd52abb0c
+Description-pl: Wieloplatformowa reimplementacja „Jedi Knight™: Dark Forces II”
+ OpenJKDF2, to otwartoźródłowa reimplementacja „Jedi Knight™: Dark Forces II” 
+ (JKDF2). OpenJKDF2 usuwa kłopoty z grafiką i kompatybilnością urządzeń
+ sterowniczych, zapewnia kroki instalacyjne providing in-app guided installation
+ steps, obsługuje wieloplatformową wieloosobową grę i dodaje mnóstwo graficznych
+ (jak i innych) ulepszeń.
+ .
+ Lucasfilm Ltd. jest właścicielem prawa autorskiego do
+ „Jedi Knight™: Dark Forces II” z lat 1997 do 2009.
+ Aby wykorzystać OpenJKDF2 do odtwarzania „Jedi Knight™: Dark Forces II”,
+ niezbędny jest oryginalny dysk lub licencjonowane oryginalne zasoby gry ze
+ Steam lub GOG.
+
+Package: openjkdf2-l10n-de
+Description-md5: 8b00f432c99a32802cf48feed12aab12
+Description-pl: Niemiecka lokalizacja wieloplatformowej reimplementacji „Jedi Knight™: Dark Forces II”
+ Lucasfilm Ltd. jest właścicielem prawa autorskiego do
+ „Jedi Knight™: Dark Forces II” z lat 1997 do 2009.
+ Aby wykorzystać OpenJKDF2 do odtwarzania „Jedi Knight™: Dark Forces II”,
+ niezbędny jest oryginalny dysk lub licencjonowane oryginalne zasoby gry ze
+ Steam lub GOG.
+
+Package: openjkdf2-l10n-pl
+Description-md5: 0734e6e6455a444627c8d088e05ddb68
+Description-pl: Polska lokalizacja wieloplatformowej reimplementacji „Jedi Knight™: Dark Forces II”
+ Lucasfilm Ltd. jest właścicielem prawa autorskiego do
+ „Jedi Knight™: Dark Forces II” z lat 1997 do 2009.
+ Aby wykorzystać OpenJKDF2 do odtwarzania „Jedi Knight™: Dark Forces II”,
+ niezbędny jest oryginalny dysk lub licencjonowane oryginalne zasoby gry ze
+ Steam lub GOG.
+
+Package: openjkdf2-updates
+Description-md5: 8260939f98ab42dbc5ad4ce31777673a
+Description-pl: Twórca źródła OpenJKDF2 dla APT
+ Ten pakiet dodaje źródło OpenJKDF2 do APT. To umożliwia automatyczne
+ aktualizacje OpenJKDF2 na system pochodnych z Debian, których pakiety są
+ zarządzane przez apt.

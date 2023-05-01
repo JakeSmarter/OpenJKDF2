@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+
+dpkg-maintscript-helper rm_conffile /etc/apt/sources.list.d/OpenJKDF2.list '1.0.0~' openjkdf2-latest -- "$@"

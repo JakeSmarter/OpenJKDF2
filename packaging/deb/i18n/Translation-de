@@ -1,0 +1,37 @@
+Package: openjkdf2
+Description-md5: 7505323f825cb618d7aa0defd52abb0c
+Description-de: Eine Plattformen übergreifende Reimplementierung von „Jedi Knight™: Dark Forces II“
+ OpenJKDF2 ist eine quelloffene Reimplementierung von „Jedi Knight™: Dark Forces II“ 
+ (JKDF2). OpenJKDF2 befreit nicht nur vom Ärger mit der Grafikdarstellung sowie
+ von Inkompatibilitäten mit Eingabegeräten, sondern bietet auch
+ anwendungsgeführte Installationsschritte, Plattformen übergreifende
+ Mehrspieler‑Unterstützung und eine Fülle von grafischen (und Anderen)
+ Verbesserungen.
+ .
+ „Jedi Knight™: Dark Forces II“ ist urheberrechtlich durch Lucasfilm Ltd.
+ 1997-2009 geschützt.
+ Eine original „Jedi Knight™: Dark Forces II“‑Spieldisk oder über Steam bzw.
+ GOG original lizenzierte Spielwerke werden benötigt um OpenJKDF2 zu spielen.
+
+Package: openjkdf2-l10n-de
+Description-md5: 8b00f432c99a32802cf48feed12aab12
+Description-de: Deutsche Lokalisierung der Plattformen übergreifenden Reimplementierung von „Jedi Knight™: Dark Forces II“
+ „Jedi Knight™: Dark Forces II“ ist urheberrechtlich durch Lucasfilm Ltd.
+ 1997-2009 geschützt.
+ Eine original „Jedi Knight™: Dark Forces II“‑Spieldisk oder über Steam bzw.
+ GOG original lizenzierte Spielwerke werden benötigt um OpenJKDF2 zu spielen.
+
+Package: openjkdf2-l10n-pl
+Description-md5: 0734e6e6455a444627c8d088e05ddb68
+Description-de: Polnische Lokalisierung der Plattformen übergreifenden Reimplementierung von „Jedi Knight™: Dark Forces II“
+ „Jedi Knight™: Dark Forces II“ ist urheberrechtlich durch Lucasfilm Ltd.
+ 1997-2009 geschützt.
+ Eine original „Jedi Knight™: Dark Forces II“‑Spieldisk oder über Steam bzw.
+ GOG original lizenzierte Spielwerke werden benötigt um OpenJKDF2 zu spielen.
+
+Package: openjkdf2-updates
+Description-md5: 8260939f98ab42dbc5ad4ce31777673a
+Description-de: Ein APT‑Quellenersteller für OpenJKDF2
+ Dieses Paket fügt eine OpenJKDF2‑Quelle zu APT hinzu. Es ermöglicht die
+ automatische Aktualisierung von OpenJKDF2 auf Debian abgeleiteten Systemen,
+ die mit der Paketverwaltung „apt“ verwaltet werden.

@@ -1,0 +1,16 @@
+Package: openjkdf2-l10n-de
+Package-Type: deb
+Version: 0.8.18
+Maintainer: Max Thomas <mtinc2@gmail.com>
+Section: localization
+Priority: optional
+Architecture: all
+Origin: OpenJKDF2
+Bugs: https://github.com/shinyquagsire23/OpenJKDF2/issues
+Homepage: https://github.com/shinyquagsire23/OpenJKDF2
+Multi-Arch: allowed
+Depends: openjkdf2 (= 0.8.18)
+Description: German localization to the cross-platform reimplementation of “Jedi Knight™: Dark Forces II”
+ “Jedi Knight™: Dark Forces II” is Copyright © Lucasfilm Ltd. 1997-2009.
+ An original “Jedi Knight™: Dark Forces II” game disk, or original licensed
+ assets from Steam or GOG, are required in order to play OpenJKDF2.
